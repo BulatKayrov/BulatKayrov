@@ -1,6 +1,9 @@
 <h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Булат</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+## Обо мне
+По образованию я гидрометеоролог, а также прошел обучение в Skillbox. В настоящее время работаю системным администратором, что позволяет мне расширять свои знания в области администрирования и управления серверами.
+
 ## Навыки
 - **Языки программирования**: Python
 - **Фреймворки**: Django, Django REST Framework (DRF), FastAPI
